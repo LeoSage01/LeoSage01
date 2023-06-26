@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/474x/62/3d/df/623ddfeced34a2b05b18b6f2c70945a4.jpg)](https://celadon-sopapillas-7b26cc.netlify.app)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://celadon-sopapillas-7b26cc.netlify.app)
+
 
 <h1 align="center">Hi 👋, I'm Ugwuoke Victor</h1>
 <h3 align="center">A Passionate FullStack Developer</h3>
@@ -7,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leosage01&label=Profile%20views&color=0e75b6&style=flat" alt="leosage01" /> </p>
 
-- 🔭 I’m currently working on ** A Booking App**
+- 🔭 I’m currently working on **Booking App**
 
 - 💬 Ask me about **MERN**
 
