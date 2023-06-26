@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👯 I’m looking to collaborate on MERN stack projects
+- 😎 I love learning new things and always finish what I have started
+- 📫 How to reach me: leosage2000@gmail.com
+- 💪🏽 Pronouns: He/his
+
+
+  
 <!--
 **LeoSage01/LeoSage01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
