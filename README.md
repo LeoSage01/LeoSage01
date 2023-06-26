@@ -1,6 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://celadon-sopapillas-7b26cc.netlify.app)
-
-
 <h1 align="center">Hi 👋, I'm Ugwuoke Victor</h1>
 <h3 align="center">A Passionate FullStack Developer</h3>
 
