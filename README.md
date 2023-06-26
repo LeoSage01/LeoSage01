@@ -1,13 +1,13 @@
-[![MasterHead](https://i.pinimg.com/474x/21/2b/c5/212bc53381700ed29b39a6c72770bbc7.jpg)](https://celadon-sopapillas-7b26cc.netlify.app)
+[![MasterHead](https://i.pinimg.com/474x/62/3d/df/623ddfeced34a2b05b18b6f2c70945a4.jpg)](https://celadon-sopapillas-7b26cc.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Ugwuoke Victor</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">A Passionate FullStack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/d3/9f/ca/d39fcae9dc1caba7c5795ee4db8b2313.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leosage01&label=Profile%20views&color=0e75b6&style=flat" alt="leosage01" /> </p>
 
-- 🔭 I’m currently working on **Booking App**
+- 🔭 I’m currently working on ** A Booking App**
 
 - 💬 Ask me about **MERN**
 
