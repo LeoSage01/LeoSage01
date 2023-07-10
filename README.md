@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **leosage2000@gmail.com**
+- 📫 How to reach me **ugwuokevictor10@gmail.com**
 
 - 💪🏽 Pronouns [He/Him](He/Him)
 
