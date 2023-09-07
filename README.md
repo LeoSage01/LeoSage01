@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ugwuoke Victor</h1>
-<h3 align="center">A Passionate Front-End Developer</h3>
+<h3 align="center">A Tech-Savvy Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/d3/9f/ca/d39fcae9dc1caba7c5795ee4db8b2313.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leosage01&label=Profile%20views&color=0e75b6&style=flat" alt="leosage01" /> </p>
 
-- 🔭 I’m currently working on learning **React Native**
+- 🔭 I’m currently working on learning **Blockchain development skillse**
 
 - 💬 Ask me about **MERN**
 
@@ -13,7 +13,6 @@
 
 - 💪🏽 Pronouns [He/Him](He/Him)
 
-- ⚡ Fun fact **I love to sing but I am tone deaf.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
